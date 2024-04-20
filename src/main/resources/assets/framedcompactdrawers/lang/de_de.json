@@ -1,4 +1,13 @@
 {
-  "block.framedcompactdrawers.framed_compact_drawer": "Umrahmtes Verdichtendes Schubfach",
-  "itemGroup.framed_compacting_drawers": "Umrahmtes Verdichtendes Schubfach"
+  "block.framedcompactdrawers.framed_compact_drawer": "eingerahmtes komprimierendes Schubfach",
+  "itemGroup.framed_compacting_drawers": "eingerahmtes komprimierendes Schubfach"
+  "block.framedcompactdrawers.framed_drawer_controller": "eingerahmter Schubfachcontroller",
+  "block.framedcompactdrawers.framed_slave": "eingerahmter Schubfachcontrollerslave",
+  "block.framedcompactdrawers.framed_trim": "eingerahmte Verkleidung",
+  "block.framedcompactdrawers.framed_full_one": "eingerahmtes Schubfach 1x1",
+  "block.framedcompactdrawers.framed_full_two": "eingerahmtes Schubfach 1x2",
+  "block.framedcompactdrawers.framed_full_four": "eingerahmtes Schubfach 2x2",
+  "block.framedcompactdrawers.framed_half_one": "eingerahmtes halbes Schubfach 1x1",
+  "block.framedcompactdrawers.framed_half_two": "eingerahmtes halbes Schubfach 1x2",
+  "block.framedcompactdrawers.framed_half_four": "eingerahmtes halbes Schubfach 1x4",
 }
